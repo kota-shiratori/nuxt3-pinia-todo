@@ -1,5 +1,5 @@
 <template>
-    <h1>TODO</h1>
+    <h1>My TODO</h1>
     <div class="contents">
         <slot />
     </div>
