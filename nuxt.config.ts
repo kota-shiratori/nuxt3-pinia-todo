@@ -2,7 +2,4 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ["@pinia/nuxt"],
-  app: {
-    baseURL: "/nuxt3-pinia-todo/",
-  },
 });
